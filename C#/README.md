@@ -31,3 +31,7 @@ _Um banco concederá um crédito especial aos seus clientes, variável com o sal
 | De 201 a 400 | 20% do valor do saldo médio|
 | De 401 a 600 | 30% do valor do saldo médio|
 | Acima de 601 | 40% do valor do saldo médio|
+
+- ### **Par ou Ímpar**
+_Crie um algoritmo onde devem ser digitados 10 números. O programa deve verificar quais números são pares e quais números são ímpares e grava-los na respectiva posição do vetor de números pares ou no vetor de números impares. Após isso o programa deve mostrar os números digitados em cada vetor e fazer a somatoria dos números do vetor par e fazer a soma dos números do vetor ímpar e mostar ambos na tela._
+
